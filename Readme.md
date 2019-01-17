@@ -17,4 +17,5 @@
 #>Conventional Code:[
 - Order of Script tag matters. For big application its hard to track dependencies.
 - Multiple n/w calls
+- Latest feature of JS not supported by browser.
 ]
