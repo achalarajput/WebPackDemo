@@ -1,0 +1,6 @@
+- mkdir WebpackDemo
+- Initialize local git repo
+- git init
+- Unix
+	- pwd: Print Working Directory
+	- clear: Ctrl+L clear screen

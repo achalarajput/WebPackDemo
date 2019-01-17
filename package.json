@@ -1,0 +1,11 @@
+{
+  "name": "webpackdemo",
+  "version": "1.0.0",
+  "description": "- mkdir WebpackDemo\r - Initialize local git repo\r - git init\r - Unix\r \t- pwd: Print Working Directory\r \t- clear: Ctrl+L clear screen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
