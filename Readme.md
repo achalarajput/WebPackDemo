@@ -19,3 +19,9 @@
 - Multiple n/w calls
 - Latest feature of JS not supported by browser.
 ]
+
+add .gitignore file
+
+#>WebPack:[
+- npm install webpack -D
+]
